@@ -1,4 +1,4 @@
 ## Interface: 70100
 ## Title: GGGGG
-## Version: 1.1
+## Version: 1.2
 main.lua
